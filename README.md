@@ -1,4 +1,4 @@
-# Sand RPT: Compare Different Sand Models
+# Sand RPT: Compare Different Models
 
 Sand RPT: Compare Different Sand Models
 
