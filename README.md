@@ -17,4 +17,4 @@ Then, we compare these sand models to the model from Raymer-Hunt-Gardner (RHG) e
 
 ![image](https://github.com/user-attachments/assets/14079120-2e6a-40b1-a99d-fab6c013e8e1)
 
-Which model to choose still depends on data. These models will be handy to model sand RPT for different area.
+Which model to choose still depends on data. However, these sand models will be handy for modeling sand RPT for different area.
