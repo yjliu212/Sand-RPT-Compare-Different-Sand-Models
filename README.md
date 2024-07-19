@@ -12,7 +12,7 @@ We start with comparing the P-wave velocity vs Porosity for different sand model
 ![image](https://github.com/user-attachments/assets/a61ff148-3e9a-4a01-af20-c3c11e7ca745)
 ![image](https://github.com/user-attachments/assets/e1906f87-a213-4537-98a6-28884cae4e8f)
 
-We can see the difference between different sand models. While stiff sand has a faster Vp than soft sand, constant contact model offers a flexible control of how fast the sand velocity will be.
+We can see the difference between different sand models. While stiff sand has a faster Vp than soft sand, constant contact and contact cement models offer flexible control of how the sand velocity will be.
 
 Then, we compare these sand models to the model from Raymer-Hunt-Gardner (RHG) equation, which is relatively easy and intuitive to create. The figure below shows the comparison between sand model from RHG equation (black dash curves), with Vclay ranging from 0 to 1 from top to bottom, and other sand models as shown above. We can see that the stiff sand model (with Vclay=0) gives a similar result to the RHG model, while the soft sand and constant contact model give slower Vp in general.
 
