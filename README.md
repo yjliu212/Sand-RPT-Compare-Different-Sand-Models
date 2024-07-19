@@ -2,6 +2,8 @@
 
 Sand RPT: Compare Different Sand Models
 
+Reference: Dvorkin, J., M. Gutierrez, and D. Grana, 2014, Seismic reflections of  rock properties: Cambridge.
+
 This Jupiter Notebook compares different sand models including: stiff sand, soft sand, contact cement, constant cement and the sand model using Raymer-Hunt-Gardner (RHG) equation. 
 
 Note: 
