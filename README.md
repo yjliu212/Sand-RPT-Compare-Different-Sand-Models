@@ -10,6 +10,8 @@ Note:
 
 All the .py files are functions that will be called in the Jupiter Notebook: Sand_RPT_Compare_Different_Models.ipynb.
 
+Description:
+
 This Jupiter Notebook compares different sand models including: stiff sand, soft sand, contact cement, constant cement and the sand model using Raymer-Hunt-Gardner (RHG) equation. 
 
 We start with comparing the P-wave velocity vs Porosity for different sand models at Vclay = 0.1 and Vclay = 0, as below.
