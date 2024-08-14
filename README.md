@@ -8,7 +8,7 @@ Dvorkin, J., M. Gutierrez, and D. Grana, 2014, Seismic reflections of  rock prop
 
 Note: 
 
-All the .py files are functions that will be called in the Jupiter Notebook: Sand_RPT_Compare_Different_Models.ipynb.
+All the .py files are functions that will be called in the Jupiter Notebook: [Sand_RPT_Compare_Different_Models.ipynb](/Sand_RPT_Compare_Different_Models.ipynb).
 
 Description:
 
