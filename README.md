@@ -25,4 +25,4 @@ Then, we compare these sand models to the model from Raymer-Hunt-Gardner (RHG) e
 
 ![image](https://github.com/user-attachments/assets/14079120-2e6a-40b1-a99d-fab6c013e8e1)
 
-Which model to choose depends on data, and RHG equation is my favorite due to its simplicity and flexibility. However, these sand models will be handy for modeling sand RPT for different area.
+Which model to choose depends on data, and RHG equation is my favorite due to its simplicity and flexibility. However, all these sand models will be handy for modeling sand RPT for different area.
